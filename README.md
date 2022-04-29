@@ -1,1 +1,1 @@
-subiendo primeros notebooks
+En este repositorio se encuentra una guía detallada para aprender los elementos básicos de python y algunas librerías importantes. También cuenta con una guía sobre computación cuántica en qiskit, que se encuentra matemáticamente detallada, paso por paso, y mediante Python la generación de algoritmos cuánticos básicos.
