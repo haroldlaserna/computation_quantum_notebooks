@@ -1,4 +1,7 @@
 ## Introducción a la computación cuántica en Python (IMB experience)
+
+![Qiskit](https://miro.medium.com/max/797/0*yUz39magP61kj3MR.png)
+
 En este repositorio se encuentra una guía detallada para aprender los elementos básicos de python y algunas librerías importantes. También cuenta con una guía sobre computación cuántica en qiskit, que se encuentra matemáticamente detallada, paso por paso, y mediante Python la generación de algoritmos cuánticos básicos.
 
 1. [Python](https://github.com/haroldlaserna/computation_quantum_notebooks/tree/main/Python): Jupyter Notebooks con información detallada del uso de Python.
